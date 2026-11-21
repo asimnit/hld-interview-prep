@@ -45,8 +45,8 @@ Tick boxes as topics are completed. Each topic gets its own write-up with: conce
 | # | Topic | Key points | Done |
 | --- | --- | --- | --- |
 | 1.1 | [Life of a request](phase-1-fundamentals/1.1-life-of-a-request.md) | DNS → load balancer → app server → cache → database | [ ] |
-| 1.2 | Networking basics | TCP vs. UDP, HTTP/1.1 vs. 2 vs. 3, TLS | [ ] |
-| 1.3 | DNS | resolution, TTLs, DNS-based load balancing | [ ] |
+| 1.2 | [Networking basics](phase-1-fundamentals/1.2-networking-basics.md) | TCP vs. UDP, HTTP/1.1 vs. 2 vs. 3, TLS | [ ] |
+| 1.3 | [DNS](phase-1-fundamentals/1.3-dns.md) | resolution, TTLs, DNS-based load balancing | [ ] |
 | 1.4 | Back-of-the-envelope estimation | latency numbers, QPS, storage, bandwidth | [ ] |
 | 1.5 | Availability & reliability | nines, SLA/SLO/SLI, single points of failure | [ ] |
 | 1.6 | Scalability | vertical vs. horizontal, stateless services | [ ] |
