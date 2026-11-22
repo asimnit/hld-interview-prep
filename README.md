@@ -208,10 +208,10 @@ Cross-cutting questions asked after most HLD problems:
 
 | Phase | Topics | Done |
 | --- | --- | --- |
-| 1. Fundamentals | 6 | 0 |
+| 1. Fundamentals | 6 | 6 |
 | 2. Building Blocks | 10 | 0 |
 | 3. Data & Storage | 10 | 0 |
 | 4. Communication & APIs | 6 | 0 |
 | 5. Reliability, Operations & Security | 7 | 0 |
 | 6. Case Studies | 22 | 0 |
-| **Total** | **61** | **0** |
+| **Total** | **61** | **6** |
