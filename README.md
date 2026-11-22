@@ -47,9 +47,9 @@ Tick boxes as topics are completed. Each topic gets its own write-up with: conce
 | 1.1 | [Life of a request](phase-1-fundamentals/1.1-life-of-a-request.md) | DNS → load balancer → app server → cache → database | [x] |
 | 1.2 | [Networking basics](phase-1-fundamentals/1.2-networking-basics.md) | TCP vs. UDP, HTTP/1.1 vs. 2 vs. 3, TLS | [x] |
 | 1.3 | [DNS](phase-1-fundamentals/1.3-dns.md) | resolution, TTLs, DNS-based load balancing | [x] |
-| 1.4 | [Back-of-the-envelope estimation](phase-1-fundamentals/1.4-back-of-the-envelope-estimation.md) | latency numbers, QPS, storage, bandwidth | [ ] |
-| 1.5 | Availability & reliability | nines, SLA/SLO/SLI, single points of failure | [ ] |
-| 1.6 | Scalability | vertical vs. horizontal, stateless services | [ ] |
+| 1.4 | [Back-of-the-envelope estimation](phase-1-fundamentals/1.4-back-of-the-envelope-estimation.md) | latency numbers, QPS, storage, bandwidth | [x] |
+| 1.5 | [Availability & reliability](phase-1-fundamentals/1.5-availability-and-reliability.md) | nines, SLA/SLO/SLI, single points of failure | [x] |
+| 1.6 | [Scalability](phase-1-fundamentals/1.6-scalability.md) | vertical vs. horizontal, stateless services | [x] |
 
 **Interview questions:** What happens when you type a URL into a browser? How many servers do you need for 10k QPS? What does 99.99% availability allow per month?
 
